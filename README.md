@@ -4,10 +4,16 @@
 
 - 🌱 高强度网上冲浪寻找灵感
 - 🤔 喜欢有趣的人和有趣的事物
-- 💬 喜欢交朋友，速度拉我进群（现实却是社恐）
+- 💬 喜欢交朋友（现实却是社恐）
 - ⚡ 喜欢研究各种有趣的项目
 - 🐧 QQ群：549522943
-
+- 😢 因部分原因大部分项目已停止维护
+  
+  Ⅰ.容易得罪人
+  
+  Ⅱ.项目被倒卖(过来骂我拿钱不办事😞)
+  
+  目前重心已转向闭源开发及个人定制
 ---
 
 ### 编程语言和工具:
@@ -32,29 +38,9 @@
 
 ---
 
-### 目前项目:
-
-- [LanzouAPI](https://github.com/hanximeng/LanzouAPI) - 蓝奏云直链，蓝奏api，蓝奏解析，蓝奏云解析API，蓝奏云带密码解析
-- [CloudDisk](https://github.com/hanximeng/CloudDisk) - 基于PHP的简易“云盘”
-- [BOT_API](https://github.com/hanximeng/BOT_API) - 用于对接go-cqhttp的PHP机器人框架
-
----
-
 ### 联系方式:
 
-- [个人网站](https://hanximeng.com)
-- [Twitter @hanximeng](https://twitter.com/hanximeng)
-
----
-
-### 支持我:
-
-如果你喜欢我的项目，可以请我喝杯咖啡 😊
-
-#### WeChat
-[![WeChat](https://raw.githubusercontent.com/hanximeng/hanximeng/main/Play_WeChat.png)](https://raw.githubusercontent.com/hanximeng/hanximeng/main/Play_WeChat.png)
-
-#### AliPay
-[![AliPay](https://raw.githubusercontent.com/hanximeng/hanximeng/main/Play_AliPlay.png)](https://raw.githubusercontent.com/hanximeng/hanximeng/main/Play_AliPlay.png)
-
+- 个人网站:https://hanximeng.com
+- Email:1017959770@qq.com
+- Telegram:@hanximeng
 ---
