@@ -42,5 +42,5 @@
 
 - 个人网站:https://hanximeng.com
 - Email:1017959770@qq.com
-- Telegram:@hanximeng
+- Telegram:https://t.me/hanximeng
 ---
